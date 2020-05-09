@@ -10,6 +10,7 @@ namespace solved_leetcode_cases
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
