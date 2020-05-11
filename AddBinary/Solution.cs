@@ -10,6 +10,7 @@ namespace AddBinary
     {
         public static string AddBinary(string a, string b)
         {
+
             if (string.IsNullOrWhiteSpace(a) || string.IsNullOrWhiteSpace(b)) return string.Empty;
             if (a == "0" && b == "0") return "0";
             Stack<char> aS = new Stack<char>();

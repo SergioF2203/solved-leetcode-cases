@@ -12,6 +12,7 @@ namespace AddBinary
         //The input strings are both non-empty and contains only characters 1 or 0.
         static void Main(string[] args)
         {
+            Solution.AddBinary("1001", "111");
         }
     }
 }

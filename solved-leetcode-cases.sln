@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntersectionOfTwoArrays", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddBinary", "AddBinary\AddBinary.csproj", "{CA9A005E-966E-465D-BC8A-810FC96B99E7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntersectionOfTwoArraysII", "IntersectionOfTwoArraysII\IntersectionOfTwoArraysII.csproj", "{2FC26EF9-89DC-45B4-B8F4-43C068AE74D7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{CA9A005E-966E-465D-BC8A-810FC96B99E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA9A005E-966E-465D-BC8A-810FC96B99E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA9A005E-966E-465D-BC8A-810FC96B99E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FC26EF9-89DC-45B4-B8F4-43C068AE74D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FC26EF9-89DC-45B4-B8F4-43C068AE74D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FC26EF9-89DC-45B4-B8F4-43C068AE74D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FC26EF9-89DC-45B4-B8F4-43C068AE74D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
