@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "solved-leetcode-cases", "solved-leetcode-cases\solved-leetcode-cases.csproj", "{775A5EF3-FAE7-4BE7-BB0B-DFA9DEB71818}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntersectionOfTwoArrays", "IntersectionOfTwoArrays\IntersectionOfTwoArrays.csproj", "{F598B004-D1E6-40AE-AF17-CF2562CC7468}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddBinary", "AddBinary\AddBinary.csproj", "{CA9A005E-966E-465D-BC8A-810FC96B99E7}"
@@ -15,10 +13,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{775A5EF3-FAE7-4BE7-BB0B-DFA9DEB71818}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{775A5EF3-FAE7-4BE7-BB0B-DFA9DEB71818}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{775A5EF3-FAE7-4BE7-BB0B-DFA9DEB71818}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{775A5EF3-FAE7-4BE7-BB0B-DFA9DEB71818}.Release|Any CPU.Build.0 = Release|Any CPU
 		{F598B004-D1E6-40AE-AF17-CF2562CC7468}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{F598B004-D1E6-40AE-AF17-CF2562CC7468}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F598B004-D1E6-40AE-AF17-CF2562CC7468}.Release|Any CPU.ActiveCfg = Release|Any CPU
