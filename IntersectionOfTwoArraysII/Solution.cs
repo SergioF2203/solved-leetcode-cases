@@ -1,30 +1,28 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace IntersectionOfTwoArraysII
+﻿namespace IntersectionOfTwoArraysII
 {
-    class Solution
+    using System.Collections.Generic;
+
+    internal class Solution
     {
         public static int[] Intersect(int[] nums1, int[] nums2)
         {
+            if (nums1.Length == 0 || nums2.Length == 0) return null;
+
             var numsDic = new Dictionary<int, int>();
             var resultList = new List<int>();
 
-            foreach(var item in nums1)
+            foreach (var item in nums1)
             {
                 if (!numsDic.ContainsKey(item))
                     numsDic.Add(item, 1);
                 else numsDic[item]++;
             }
 
-            foreach(var item in nums2)
+            foreach (var item in nums2)
             {
                 if (numsDic.ContainsKey(item))
                 {
-                    if(numsDic[item] > 1)
+                    if (numsDic[item] > 1)
                     {
                         numsDic[item]--;
                         resultList.Add(item);

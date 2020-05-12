@@ -1,12 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace AddBinary
+﻿namespace AddBinary
 {
-    class Solution
+    using System.Collections.Generic;
+
+    internal class Solution
     {
         public static string AddBinary(string a, string b)
         {

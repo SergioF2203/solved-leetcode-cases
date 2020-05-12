@@ -1,15 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace IntersectionOfTwoArraysII
+﻿namespace IntersectionOfTwoArraysII
 {
-    class Program
+    internal class Program
     {
         // Given two arrays, write a function to compute their intersection.
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             var nums1 = new int[] {1, 2, 2, 1 };
             var nums2 = new int[] { 2, 2 };
