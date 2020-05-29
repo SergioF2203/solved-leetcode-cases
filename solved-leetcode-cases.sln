@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfTwoIntegers", "SumOfTw
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackspaceStringCompare", "BackspaceStringCompare\BackspaceStringCompare.csproj", "{D647BA0E-EEC0-445D-AB45-A74B890BB1B3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BestTimeToBuySell", "BestTimeToBuySell\BestTimeToBuySell.csproj", "{EA4F0DFA-0905-4606-984C-946A07A1BA9C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{D647BA0E-EEC0-445D-AB45-A74B890BB1B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D647BA0E-EEC0-445D-AB45-A74B890BB1B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D647BA0E-EEC0-445D-AB45-A74B890BB1B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA4F0DFA-0905-4606-984C-946A07A1BA9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA4F0DFA-0905-4606-984C-946A07A1BA9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA4F0DFA-0905-4606-984C-946A07A1BA9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA4F0DFA-0905-4606-984C-946A07A1BA9C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
