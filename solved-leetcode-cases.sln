@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackspaceStringCompare", "B
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BestTimeToBuySell", "BestTimeToBuySell\BestTimeToBuySell.csproj", "{EA4F0DFA-0905-4606-984C-946A07A1BA9C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BestTimeToBuySellII", "BestTimeToBuySellII\BestTimeToBuySellII.csproj", "{672DF385-F1D0-416F-96A1-FF18C35C833C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{EA4F0DFA-0905-4606-984C-946A07A1BA9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA4F0DFA-0905-4606-984C-946A07A1BA9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA4F0DFA-0905-4606-984C-946A07A1BA9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{672DF385-F1D0-416F-96A1-FF18C35C833C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{672DF385-F1D0-416F-96A1-FF18C35C833C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{672DF385-F1D0-416F-96A1-FF18C35C833C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{672DF385-F1D0-416F-96A1-FF18C35C833C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
