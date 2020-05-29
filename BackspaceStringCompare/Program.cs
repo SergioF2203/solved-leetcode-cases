@@ -12,6 +12,10 @@ namespace BackspaceStringCompare
 
         static void Main(string[] args)
         {
+            var string1 = "ab#c";
+            var string2 = "ad#c";
+
+            Solution.BackspaceCompare(string1, string2);
         }
     }
 }
