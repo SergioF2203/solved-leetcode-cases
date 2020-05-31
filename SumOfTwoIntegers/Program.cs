@@ -11,10 +11,7 @@ namespace SumOfTwoIntegers
     {
         private static void Main(string[] args)
         {
-            var a = new int[] { 1, 0 };
-            var b = new int[] { 1 };
-
-            Solution.GetSum(-4, 3);
+            Solution.GetSum(0, 3);
         }
     }
 }
